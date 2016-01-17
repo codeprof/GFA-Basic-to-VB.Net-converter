@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GFAWIN-Sample1", "GFAWIN-Samples\GFAWIN-Sample1.vbproj", "{EC2DD954-54A7-4545-9B3E-37D8033C90EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2DD954-54A7-4545-9B3E-37D8033C90EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2DD954-54A7-4545-9B3E-37D8033C90EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2DD954-54A7-4545-9B3E-37D8033C90EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2DD954-54A7-4545-9B3E-37D8033C90EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
