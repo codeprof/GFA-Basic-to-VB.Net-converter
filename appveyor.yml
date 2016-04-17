@@ -1,8 +1,8 @@
 configuration: Release  
   
 build:
-  project: Converter/GFWToVBNetConverter/GFWToVBNetConverter.sln
-  project: Test\GFAWIN-Samples\GFAWIN-Samples.sln
+  project-converter: Converter/GFWToVBNetConverter/GFWToVBNetConverter.sln
+  project-sample: Test\GFAWIN-Samples\GFAWIN-Samples.sln
   
 artifacts:
   - path: 'Converter\GFWToVBNetConverter\bin\$(configuration)'
@@ -10,4 +10,5 @@ artifacts:
     type: zip
   - path: 'Test\GFAWIN-Samples\bin\$(configuration)'
     name: GFAWIN-Samples
-    type: zip    
+    type: zip
+    
