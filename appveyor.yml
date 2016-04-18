@@ -1,7 +1,7 @@
 configuration: Release  
   
 build:
-  project_converter: Converter/GFWToVBNetConverter/GFWToVBNetConverter.sln
+  project: Converter/GFWToVBNetConverter/GFWToVBNetConverter.sln
   
 artifacts:
   - path: 'Converter\GFWToVBNetConverter\bin\$(configuration)'
